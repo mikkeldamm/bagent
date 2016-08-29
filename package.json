@@ -1,0 +1,23 @@
+{
+  "name": "bagent",
+  "version": "1.0.0",
+  "description": "house agent, that searches all danish realestate sites and open sites for houses based on a criteria and sends an notification to the user.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkeldamm/bagent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkeldamm/bagent/issues"
+  },
+  "homepage": "https://github.com/mikkeldamm/bagent#readme",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "request": "2.74.0"
+  }
+}
