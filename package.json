@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mikkeldamm/bagent#readme",
   "dependencies": {
     "cheerio": "0.22.0",
-    "request": "2.74.0"
+    "node-fetch": "1.6.0",
+    "request": "2.74.0",
+    "rx": "4.1.0"
   }
 }

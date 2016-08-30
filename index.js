@@ -1,4 +1,3 @@
-const Home = require('./lib/sites/home');
+const bagent = require('./lib/bagent');
 
-let home = new Home();
-home.initialize();
+bagent();
